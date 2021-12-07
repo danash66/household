@@ -1,15 +1,14 @@
 .part-a{
-	font-size: 30px;
-	padding-left: 50px;}
+	font-size: 550px;
+	padding-left: 100px;}
 
 .website_header{
-
+	background-color:yellow;
 	font-size: 25px;
 	padding-left: 500px;}
 
-.images{
-	padding-left: 300px;
-}
+/*	padding-left: 100px;
+}*/
 
 .part-1{	
 	font-size :25px;}
